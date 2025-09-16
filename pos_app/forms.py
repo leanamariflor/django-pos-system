@@ -1,5 +1,5 @@
 from django import forms
-from .models import YourModel   # replace with your actual model name
+from .models import YourModel 
 
 class YourModelForm(forms.ModelForm):
     class Meta:
